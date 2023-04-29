@@ -1,0 +1,6 @@
+*.a
+!lib.a
+build/
+/TODO
+notesOnIslam.html
+/doc/*
